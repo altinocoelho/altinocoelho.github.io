@@ -15,3 +15,10 @@ theme:
 plugins:
   - tags
   - blog
+  - aws
+# Page tree
+nav:
+  - AWS: 
+    - AWS/aws.md
+    - AWS: aws_products.md
+  
