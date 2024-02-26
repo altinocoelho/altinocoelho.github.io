@@ -20,5 +20,5 @@ plugins:
 nav:
   - AWS: 
     - AWS/aws.md
-    - AWS: aws_products.md
+    - aws_products.md
   
